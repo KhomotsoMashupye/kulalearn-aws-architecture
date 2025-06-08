@@ -59,7 +59,7 @@ This architecture diagram represents a modern, serverless AWS-based solution des
 |------|-------------|
 | architecture-images | images of the final architect |
 | README.md                | This project documentation file |
-| Terraform                | This project's IaC|
+| Terraform                | The proof of concept (IaC)|
 ---
 
 ## Next Steps / Future Improvements
