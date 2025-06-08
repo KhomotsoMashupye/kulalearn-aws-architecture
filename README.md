@@ -4,7 +4,7 @@
 
 *KulaLearn* is a growing EdTech platform serving university and high school learners across East and Southern Africa. The platform offers video lectures, quizzes, live tutoring, and peer discussions via web and mobile apps. As usage increased, the need for a more scalable, secure, and reliable infrastructure became essential.
 
-This architecture diagram represents a modern, serverless AWS-based solution designed to improve performance, resilience, and compliance — while enabling future regional expansion.
+This architecture diagram represents a modern, serverless AWS-based solution designed to improve performance, resilience, and compliance , while enabling future regional expansion.
 
 ---
 
