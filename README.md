@@ -57,7 +57,7 @@ This architecture diagram represents a modern, serverless AWS-based solution des
 
 | File | Description |
 |------|-------------|
-| FIRSTPROJECT.drawio | image |
+| architecture-images | images of the final architect |
 | README.md                | This project documentation file |
 | Terraform                | This project's IaC|
 ---
