@@ -70,7 +70,6 @@ This architecture diagram represents a modern, serverless AWS-based solution des
 
 ---
 
-##  Built By KHOMOTSO MASHUPYE
-An aspiring cloud architect solving real-world problems with AWS.
+
 
 
